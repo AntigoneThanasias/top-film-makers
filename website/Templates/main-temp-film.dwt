@@ -12,11 +12,21 @@
 <!-- TemplateParam name="jj-abrams" type="boolean" value="true" -->
 <!-- TemplateParam name="alfred-hitchcock" type="boolean" value="true" -->
 <!-- TemplateParam name="woody-allen" type="boolean" value="true" -->
+<link href="../style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
+<p align="center"><img src="../images/d-g-a.jpg" width="300" height="183"></p>
+<div align="center">
+  <ul>
+    <li>
+      <div align="left">
+        <a href="../index.html">Home</a>
+      </div>
+    </li>
+  </ul>
+</div>
 <ul>
-  <li><a href="../index.html">Home</a></li>
   <li><a href="../steven-spielberg/index.html">Steven Spielberg</a><!-- TemplateBeginIf cond="_document['steven-spielberg']" -->
     <blockquote>
       <ul>
